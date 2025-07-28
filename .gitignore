@@ -1,0 +1,15 @@
+# Node modules
+frontend/node_modules
+# Build
+frontend/dist
+# Env
+frontend/.env
+backend/.env
+# Go build
+backend/bin/
+*.exe
+*.out
+*.test
+# IDE
+.vscode/
+.DS_Store
